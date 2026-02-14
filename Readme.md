@@ -70,7 +70,7 @@ Controls
 --------
 - Mouse wheel: switch between blob presets
 
-What You Can Learn From This Project
+I Learn From This Project
 ------------------------------------
 - A Three.js scene with HDRI lighting and physical materials
 - Inject custom GLSL into standard materials using three-custom-shader-material
