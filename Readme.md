@@ -79,13 +79,6 @@ I Learn From This Project
 - Render crisp animated text in 3D with troika-three-text
 - Bundle GLSL and assets in Vite
 
-Ideas to Extend
---------------
-- Wire up `fragmentShaders.glsl` for custom shading or color effects
-- Connect `public/configvals.js` as a preset source to avoid duplication
-- Add GUI controls with lil-gui for live tweaking
-- Add touch support for mobile swipes
-
 
 
 
