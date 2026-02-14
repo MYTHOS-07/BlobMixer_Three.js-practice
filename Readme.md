@@ -3,6 +3,8 @@ Blob Mixer
 
 Interactive Three.js demo that morphs a glossy blob across multiple styles and titles. Use the mouse wheel to switch between presets; the scene animates the mesh, gradient, background, and text transitions.
 
+![Blob Mixer Preview](https://res.cloudinary.com/dcjobwnp5/image/upload/v1771085174/image_14_op1qgh.png)
+
 Features
 --------
 - Custom vertex-displacement blob shader driven by 4D simplex noise
@@ -65,6 +67,8 @@ Getting Started
 2) Run dev server
 	 npm run dev
 
+![Blob Mixer Preview](https://res.cloudinary.com/dcjobwnp5/image/upload/v1771085172/image_12_ipl3jm.png)
+
 
 Controls
 --------
@@ -79,6 +83,6 @@ I Learn From This Project
 - Render crisp animated text in 3D with troika-three-text
 - Bundle GLSL and assets in Vite
 
-
+![Blob Mixer Preview](https://res.cloudinary.com/dcjobwnp5/image/upload/v1771085174/image_13_dnznzm.png)
 
 
